@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel hands on a dark canvas</title>
+  <desc id="desc">Monochrome halftone hands reaching toward a small outlined window, inspired by retro pixel-art profile headers.</desc>
+  <defs>
+    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.25" fill="#d8d9e1" opacity=".78"/>
+    </pattern>
+    <mask id="left-hand"><path fill="white" d="M35 163 160 108l89-30 89 17 55 38-14 18-71-22-36 16 67 14 55 20-5 20-74-13-61-6 50 22 49 26-9 19-66-24-68-17-71 29-85 36Z"/></mask>
+    <mask id="right-hand"><path fill="white" d="M1165 166 1040 111l-89-30-89 17-55 38 14 18 71-22 36 16-67 14-55 20 5 20 74-13 61-6-50 22-49 26 9 19 66-24 68-17 71 29 85 36Z"/></mask>
+  </defs>
+  <rect width="1200" height="300" fill="#0d0e14"/>
+  <path d="M0 260h1200" stroke="#282a35" stroke-width="2"/>
+  <path d="M35 163 160 108l89-30 89 17 55 38-14 18-71-22-36 16 67 14 55 20-5 20-74-13-61-6 50 22 49 26-9 19-66-24-68-17-71 29-85 36Z" fill="url(#dots)" mask="url(#left-hand)"/>
+  <path d="M1165 166 1040 111l-89-30-89 17-55 38 14 18 71-22 36 16-67 14-55 20 5 20 74-13 61-6-50 22-49 26 9 19 66-24 68-17 71 29 85 36Z" fill="url(#dots)" mask="url(#right-hand)"/>
+  <rect x="498" y="74" width="204" height="133" rx="3" fill="#0d0e14" stroke="#d8d9e1" stroke-width="3"/>
+  <path d="M498 94h204" stroke="#d8d9e1" stroke-width="2"/>
+  <circle cx="514" cy="84" r="3" fill="#d8d9e1"/><circle cx="527" cy="84" r="3" fill="#d8d9e1"/>
+  <text x="600" y="164" fill="#d8d9e1" font-family="monospace" font-size="19" text-anchor="middle" letter-spacing="3">HELLO WORLD</text>
+  <text x="600" y="276" fill="#777b8b" font-family="monospace" font-size="13" text-anchor="middle" letter-spacing="4">RENAN NUNES PACHECO · DEVELOPER / BUILDER</text>
+</svg>

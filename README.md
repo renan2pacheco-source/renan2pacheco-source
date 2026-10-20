@@ -1,25 +1,37 @@
 <div align="center">
-  <img src="assets/nocturne-header.jpg" alt="Árvore sombria sob um céu índigo — arte de capa do perfil" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Arte monocromática de mãos pixeladas formando uma moldura" width="100%" />
+  <br />
+  <h1>Oi 👋, eu sou Renan</h1>
+  <p><strong>Entusiasta de tecnologia e IA · Educação Física + Nutrição</strong></p>
+  <p>Construindo PWAs, automações e ferramentas que conectam tecnologia, treino e cuidado.</p>
+  <p>
+    <a href="https://github.com/renan2pacheco-source/portfolio">Portfólio</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/renan2pacheco-source/site-prompty">Prompty</a>
+  </p>
 </div>
 
-<h1 align="center">Renan Nunes Pacheco</h1>
+---
 
-<p align="center">
-  <a href="https://github.com/renan2pacheco-source/portfolio">portfólio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/renan2pacheco-source/site-prompty">Prompty</a>
-</p>
+### 🚀 Sobre mim
+
+Estudo **Educação Física e Nutrição** e gosto de transformar ideias em software útil no dia a dia. Tenho explorado **IA, PWAs e automação**, especialmente nas interseções entre tecnologia, treino e cuidado.
+
+### 🧩 Projetos em destaque
+
+| Projeto | Sobre |
+| --- | --- |
+| [Portfólio](https://github.com/renan2pacheco-source/portfolio) | Projetos pessoais em React e TypeScript. |
+| [Prompty](https://github.com/renan2pacheco-source/site-prompty) | Posicionamento, design e automação para marcas. |
+
+### 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript&theme=dark" alt="React e TypeScript" />
+</div>
 
 ---
 
-Estudo **Educação Física e Nutrição** e gosto de construir software que tenha lugar na vida real. Tenho explorado IA, PWAs e automação — especialmente nas interseções entre tecnologia, treino e cuidado.
-
-### Projetos
-
-**[Portfólio](https://github.com/renan2pacheco-source/portfolio)** — projetos pessoais em React e TypeScript.
-
-**[Prompty](https://github.com/renan2pacheco-source/site-prompty)** — site de posicionamento, design e automação para marcas.
-
----
-
-<p align="center"><sub>Brasil · construindo com intenção.</sub></p>
+<div align="center">
+  <sub>Brasil · construindo com intenção.</sub>
+</div>
