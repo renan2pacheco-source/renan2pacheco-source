@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Renan Nunes Pacheco</title>
+  <desc id="desc">Tecnologia com propósito — saúde, inteligência artificial e software</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111413"/>
+      <stop offset="1" stop-color="#1b211d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d99a55" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#d99a55" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#d99a55" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d5e1d8" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="90" r="210" fill="#78916b" opacity=".08"/>
+  <circle cx="1090" cy="285" r="150" fill="#d99a55" opacity=".06"/>
+  <path d="M0 286H1200" stroke="url(#line)" stroke-width="1"/>
+  <text x="72" y="76" fill="#d99a55" font-family="monospace" font-size="16" letter-spacing="4">RENAN NUNES PACHECO  /  BRASIL</text>
+  <text x="68" y="164" fill="#f2f0e9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="53" font-weight="700" letter-spacing="-1.5">Tecnologia com propósito.</text>
+  <text x="72" y="213" fill="#b7c0b7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Saúde, inteligência artificial &amp; software — em construção.</text>
+  <text x="72" y="286" fill="#8d9b8f" font-family="monospace" font-size="15">[ curiosidade → código → impacto ]</text>
+  <g transform="translate(1000 145)" fill="none" stroke="#d99a55" stroke-width="2">
+    <rect x="0" y="0" width="105" height="75" rx="8" opacity=".85"/>
+    <path d="M18 22h18m-18 14h38m-38 14h27" stroke-linecap="round"/>
+    <path d="M51 100l14-18 14 18M65 82v35m-31 10h63" stroke-linecap="round" stroke-linejoin="round" opacity=".72"/>
+    <circle cx="80" cy="17" r="3" fill="#d99a55" stroke="none"/>
+  </g>
+</svg>
